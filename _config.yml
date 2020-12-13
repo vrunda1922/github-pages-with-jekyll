@@ -1,13 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
-# social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+theme: minima
+title: Life Of A Computer Engineer
+author: idiotic me
+email: no@not.com
+description: 
+  Our Life is quite a tough one to live . Yet its the most interesting thing to be able to create new things just sitting in your room in pyjamas . In the begining you may face problems in learning
+  But once you actually get into it , you enjoy it . I am at a stage where i am trying to fit into this developer community . I swear this is getting tougher . But i will not give up and keep trying . Its my curiosity (though i woke up a little too late) thats keeping me going . 
+twitter_username: shhh
+github_username:  nooo
 
 show_excerpts: true # set to false to remove excerpts on the homepage
